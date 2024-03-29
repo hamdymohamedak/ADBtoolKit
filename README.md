@@ -1,5 +1,5 @@
 # ADBTOOLKIT
-![Screenshot 1](kk)
+![Screenshot 1](adbToolkit.png)
 # run adb and scrcpy without command line
 ## Description
 this tool can get your device ip and connect your ip to adb server and run scrcpy tool to View your ( mobile screen ) at ( LABTOP ) or ( PC )
